@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: otf5u289h-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/otf5u289h-java-springboot
